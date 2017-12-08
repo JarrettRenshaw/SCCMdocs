@@ -86,6 +86,8 @@ Use the Exchange Server connector in System Center Configuration Manager when yo
     -   **Get-ActiveSyncOrganizationSettings**  
 
     -   **Get-ExchangeServer**  
+    
+    -   **Get-Mailbox**
 
     -   **Get-Recipient**  
 
